@@ -1,0 +1,15 @@
+[project]
+name = "drawai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.97.0",
+    "numpy>=2.4.4",
+    "openai>=2.33.0",
+    "pillow>=12.2.0",
+    "python-dotenv>=1.2.2",
+    "requests>=2.33.1",
+    "streamlit>=1.57.0",
+]
